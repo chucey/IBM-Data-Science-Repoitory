@@ -12,4 +12,4 @@ The training data was split into a training set and a testing set. I iterated ea
 
 After training the models, a testing data set was used to determine which model was the best classifer. The evaluation metrics used were: jaccard score, f1 score and LogLoss Score.
 
-Feel free to read the jupyter notebook for more details/
+Feel free to read the jupyter notebook for more details.
