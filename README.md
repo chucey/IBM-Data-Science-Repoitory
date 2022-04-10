@@ -23,4 +23,4 @@ Once the features with the highest correlation to price were determined, I split
 
 I introduced a regularization parameter to mitigate the risk of over fitting the polynomial regression. This model was also evaluated using the R^2 score and the results of both models were compared to determine which regression could better predict housing prices.
 
-Feel free to read the Jupyter notebbok for more details.
+Feel free to read the Jupyter notebook for more details.
