@@ -6,9 +6,9 @@ In this project, I read a file containing the loan status of various people. The
 
 I cleaned the data including converting text to integers and text to dates. Next, I visualized the data to better understand it. Lastly, I prepared the data to be used in the machine learning algorithm by selecting all necessary fields and normalizing the data. 
 
-The goal of the project was to determine which classification alogorithm yeilded the best results so, this dataset was used to train 4 separate algorithms: K Nearest Neighbour, Decision Tree, Logistic Regression and Support Vector Machine. 
+The goal of the project was to determine which classification algorithm yielded the best results so, this dataset was used to train 4 separate algorithms: K Nearest Neighbour, Decision Tree, Logistic Regression and Support Vector Machine. 
 
-The training data was split into a training set and a testing set. I iterated each alogorithm to determine the optimal parameters that yeilded the highest accuracy.
+The training data was split into a training set and a testing set. I iterated each algorithm to determine the optimal parameters that yielded the highest accuracy.
 
 After training the models, a testing data set was used to determine which model was the best classifer. The evaluation metrics used were: jaccard score, f1 score and LogLoss Score.
 
